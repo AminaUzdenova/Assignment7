@@ -1,3 +1,7 @@
 line 1 Rakhat changes this file
 another change by Amina for Task3
+<<<<<<< HEAD
 Rakhatchanged
+=======
+changed by Amina for Task4
+>>>>>>> 90e97448facae4709fdbfcc670e82c128d95a9ea
